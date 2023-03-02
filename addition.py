@@ -3,6 +3,8 @@ def addition(a, b):
 
 print(addition(1, 2))
 
+print("This is a new line")
+
 print("This line is newly added")
 
 """
@@ -17,7 +19,7 @@ git push origin main
 
 """
 git diff    -- press "q" to come out
-git add
+git add .
 git status
-
 """
+
